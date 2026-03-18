@@ -74,7 +74,7 @@ Make sure you have **Python 3.x** installed.
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/student_performance_predictor.git
+git clone https://github.com/KanekiAyush/Student_Performance_Predictor.git
 cd student_performance_predictor
 ```
 
@@ -160,7 +160,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <div align="center">
 
-Made with ❤️ by **[Your Name](https://github.com/YOUR_USERNAME)**
+Made with ❤️ by **[Ayush Thakare](https://github.com/KanekiAyush)**
 
 ⭐ Star this repo if you found it helpful!
 
